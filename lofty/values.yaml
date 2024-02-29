@@ -4,7 +4,7 @@ agentOnly: false
 admin:
   create: true
   username: admin
-  password: "my-password"
+  password: "password123"
 # Loft service options
 service:
   type: ClusterIP
