@@ -69,7 +69,7 @@ env: {}
 #     key: username
 envValueFrom: {}
 # Replica amount of the loft deployment
-replicaCount: 1
+replicaCount: 4
 # Resources of the loft deployment
 resources:
   requests:
